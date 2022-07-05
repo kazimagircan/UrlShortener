@@ -39,7 +39,7 @@ If You use registered short url (shrt) after host address like "http://localhost
 
 # Screenshot of the web application:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://raw.githubusercontent.com/kazimagircan/UrlShortener/master/UrlShortener.API/Screenshot.png)
 
 # Conclusion
 After 6 hours, I brought this little application to life thanks to ASP.NET Core.
