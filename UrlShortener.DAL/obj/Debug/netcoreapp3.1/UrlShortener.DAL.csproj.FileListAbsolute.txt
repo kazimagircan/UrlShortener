@@ -1,0 +1,26 @@
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.deps.json
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.runtimeconfig.json
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.runtimeconfig.dev.json
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.dll
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.pdb
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.AssemblyInfo.cs
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.dll
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.pdb
+C:\Users\kzm\source\repos\UrlShortener\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.genruntimeconfig.cache
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.deps.json
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.runtimeconfig.json
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.runtimeconfig.dev.json
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.dll
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\bin\Debug\netcoreapp3.1\UrlShortener.DAL.pdb
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.csproj.AssemblyReference.cache
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.AssemblyInfoInputs.cache
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.AssemblyInfo.cs
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.dll
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.pdb
+C:\Users\kzm\source\repos\UrlShortener - Kopya\UrlShortener.DAL\obj\Debug\netcoreapp3.1\UrlShortener.DAL.genruntimeconfig.cache
