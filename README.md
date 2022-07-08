@@ -6,7 +6,7 @@ I've started this little project in order to have a support during my approach o
 
 My idea was to implement a simple web api using the framework.
 
-I've chosen to implement an URL shortener application with Swagger because swagger uı is very usefull.
+I've chosen to implement an URL shortener application with Swagger because swagger uı is very easy and usefull.
 
 # Algorithm
 So, how works an URL shortener?
